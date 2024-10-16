@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/sharad38888987" target="blank"><img src="https://img.shields.io/twitter/follow/sharad38888987?logo=twitter&style=for-the-badge" alt="sharad38888987" /></a> </p>
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m continuous learner **MERN Stack Developer**
 
 - 👨‍💻 All of my projects are available at [https://sharad-pratap.github.io/](https://sharad-pratap.github.io/)
 
-- 💬 Ask me about **React,C++**
+- 💬 Ask me about **MERN,C++**
 
 - 📫 How to reach me **sharadpratap40@gmail.com**
 
